@@ -1,7 +1,7 @@
 package com.weblabs.lab1.model;
 
 public class Employee {
-	private String empNo;
+    private String empNo;
     private String empName;
     private String position;
  
